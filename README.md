@@ -1,9 +1,6 @@
 # E-waste
 
 
-## Design Link: 
-
-
 ## FIRST TASK FOR ALL: 
 	
   ### Clone Repository: 
