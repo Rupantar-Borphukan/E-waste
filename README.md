@@ -1,5 +1,7 @@
 # E-waste
 
+## Documentation:
+https://docs.google.com/document/d/1OIJdZCdLKOf5cIfKrj5fF0_XHsAhc2p8As6oxp4ex7w/edit
 
 ## FIRST TASK FOR ALL: 
 	
